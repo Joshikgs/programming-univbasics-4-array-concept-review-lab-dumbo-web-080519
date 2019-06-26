@@ -39,7 +39,7 @@ def find_min_value(array)
   end
   min_value
   
-  
+# or 
 # array.min
 end
 
