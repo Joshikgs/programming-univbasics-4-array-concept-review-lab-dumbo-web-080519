@@ -12,8 +12,8 @@ def find_max_value(array)
     end
   end
   max_value
-  
-  
+
+# or
 # array.max
 end
 
