@@ -12,7 +12,9 @@ def find_max_value(array)
     end
   end
   max_value
-#array.max
+  
+  
+# array.max
 end
 
 def find_min_value(array)
@@ -35,7 +37,9 @@ def find_min_value(array)
       end
     end
   end
-  return min_value
+  min_value
+  
+  
 # array.min
 end
 
